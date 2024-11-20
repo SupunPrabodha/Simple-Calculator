@@ -52,6 +52,6 @@ Contributions are welcome to enhance this calculator! Here's how you can contrib
 
 5. Open a pull request on the original repository.
 
-##License
+## License
 
 This project is released under the MIT License. Feel free to use, modify, and distribute it as needed.
