@@ -26,7 +26,7 @@ A simple and interactive calculator web application developed to practice and en
    
 ## File Structure
 
-- **cal.html**: Main HTML file containing the calculator layout and logic.
+- **cal.html**: Main **HTML** file containing the calculator layout and logic.
 - **styles.css**: CSS file for styling the calculator's design.
 
 ## Screenshots
