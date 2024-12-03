@@ -42,7 +42,7 @@ Contributions are welcome to enhance this calculator! Here's how you can contrib
 1. Fork the repository by clicking the "Fork" button on GitHub.
 2. Clone your fork to your local machine:
    ```bash
-   git clone <fork-url>
+   git clone https://github.com/SupunPrabodha/Simple-Calculator.git
 3. Create a new branch for your feature or fix:
    ```bash
     git checkout -b feature/feature-name
