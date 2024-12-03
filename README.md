@@ -13,7 +13,7 @@ A simple and interactive calculator web application developed to practice and en
 
 - **HTML**: Provides the **structure** for the calculator interface.  
 - **CSS**: **Adds styling and design elements** for a modern look.  
-- **JavaScript**: Handles the logic for arithmetic operations and interactivity.  
+- **JavaScript**: **Handles the logic** for arithmetic operations and interactivity.  
 
 ## How to Use  
 
