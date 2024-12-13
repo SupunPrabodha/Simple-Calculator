@@ -55,3 +55,5 @@ Contributions are welcome to enhance this calculator! Here's how you can contrib
 ## License
 
 This project is released under the MIT License. Feel free to use, modify, and distribute it as needed.
+
+⭐ If you like this project, don't forget to star it! ⭐
